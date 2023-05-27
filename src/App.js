@@ -1,27 +1,15 @@
+// 1. Return the list of robos with image, name, weapon, healthPoints aligned in one line
+// 2. Create a search input field which will take the user input and filter the robos with names including the search terms.
+// 3. If in case no robo found on search then return "NO ROBO FOUND" message.
+
 import './App.css';
+import roboData from "./robos.json";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </p>
-      </header>
+      <h5 className='text-center font-bold'>Hello from REACT</h5>
+      {/* Code Here */}
     </div>
   );
 }

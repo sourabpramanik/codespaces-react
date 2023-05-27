@@ -1,0 +1,74 @@
+{
+  "robots": [
+    {
+      "id": 1,
+      "imageURL": "https://robohash.org/1",
+      "name": "Alpha Bot",
+      "weapon": "Laser Gun",
+      "healthPoints": 100
+    },
+    {
+      "id": 2,
+      "imageURL": "https://robohash.org/2",
+      "name": "Blasto Mech",
+      "weapon": "Rocket Launcher",
+      "healthPoints": 90
+    },
+    {
+      "id": 3,
+      "imageURL": "https://robohash.org/3",
+      "name": "Electro Blade",
+      "weapon": "Electric Sword",
+      "healthPoints": 95
+    },
+    {
+      "id": 4,
+      "imageURL": "https://robohash.org/4",
+      "name": "Plasma Titan",
+      "weapon": "Plasma Cannon",
+      "healthPoints": 80
+    },
+    {
+      "id": 5,
+      "imageURL": "https://robohash.org/5",
+      "name": "Inferno Mech",
+      "weapon": "Flamethrower",
+      "healthPoints": 85
+    },
+    {
+      "id": 6,
+      "imageURL": "https://robohash.org/6",
+      "name": "Titanium Crusher",
+      "weapon": "Hammer Fist",
+      "healthPoints": 92
+    },
+    {
+      "id": 7,
+      "imageURL": "https://robohash.org/7",
+      "name": "Blitz Bot",
+      "weapon": "Plasma Blaster",
+      "healthPoints": 88
+    },
+    {
+      "id": 8,
+      "imageURL": "https://robohash.org/8",
+      "name": "Sonic Striker",
+      "weapon": "Sonic Wave Gauntlet",
+      "healthPoints": 87
+    },
+    {
+      "id": 9,
+      "imageURL": "https://robohash.org/9",
+      "name": "Thunderclap",
+      "weapon": "Thunder Cannon",
+      "healthPoints": 93
+    },
+    {
+      "id": 10,
+      "imageURL": "https://robohash.org/10",
+      "name": "Shadow Stalker",
+      "weapon": "Stealth Blades",
+      "healthPoints": 89
+    }
+  ]
+}
